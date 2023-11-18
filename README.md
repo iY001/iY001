@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Shopping.ly**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **React**
 
