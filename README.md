@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Shopping.ly**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **LARAVEL | PHP**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **NextJs**
 
 - 📫 How to reach me **youssefabdo4005@gmail.com**
 
