@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Shopping.ly**
 
-- 🌱 I’m currently learning **LARAVEL | PHP**
+- 🌱 I’m currently learning **LARAVEL  | PHP**
 
 - 💬 Ask me about **NextJs**
 
