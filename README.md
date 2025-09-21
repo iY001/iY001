@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iy001&label=Profile%20views&color=0e75b6&style=flat" alt="iy001" /> </p>
 
-- 🔭 I’m currently working on **Shopping.ly**
+- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **LARAVEL  | PHP**
+- 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **NextJs**
+- 💬 Ask me about **New Project**
 
 - 📫 How to reach me **youssefabdo4005@gmail.com**
 
